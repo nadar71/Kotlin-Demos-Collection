@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KotlinMultidemo</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- - - - - - - - - - Activity title label - - - - - - - - - - - - - - - -->
+    <string name="notifications_title">Notifications Samples</string>
+    <string name="notifications_basic_title">Basic Notifications Demo</string>
+    <string name="notifications_bigtext_title">Big Text Notifications Demo</string>
+    <string name="notifications_bigimg_title">Big Picture Notifications Demo</string>
+
+
+    <string name="click_label">Click me</string>
+
+
+</resources>
